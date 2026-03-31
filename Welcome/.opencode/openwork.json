@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "workspace": {
+    "name": "Welcome",
+    "createdAt": 1774940036336,
+    "preset": "starter"
+  },
+  "authorizedRoots": [
+    "/Users/suntek/openwork/Welcome"
+  ]
+}
